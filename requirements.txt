@@ -1,0 +1,11 @@
+PyYAML==3.12
+argh==0.26.2
+argparse==1.2.1
+dropbox==7.2.1
+pathtools==0.1.2
+requests==2.13.0
+six==1.10.0
+typing==3.5.3.0
+urllib3==1.20
+watchdog==0.8.3
+wsgiref==0.1.2
