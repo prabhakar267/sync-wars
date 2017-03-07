@@ -1,0 +1,10 @@
+# reference : https://www.dropbox.com/developers
+
+# dropbox tokens
+ACCESS_TOKEN = "XXXX"
+APP_KEY = "XXXX"
+APP_SECRET = "XXXX"
+
+# sync directory
+LOCAL_DIRECTORY = "/path/to/directory"
+DROPBOX_DIRECTORY = "/dropbox/directory"
