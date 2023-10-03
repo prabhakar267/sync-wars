@@ -6,6 +6,6 @@ pathtools==0.1.2
 requests==2.31.0
 six==1.10.0
 typing==3.5.3.0
-urllib3==1.26.5
+urllib3==1.26.17
 watchdog==0.8.3
 wsgiref==0.1.2
